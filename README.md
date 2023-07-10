@@ -1,3 +1,13 @@
+## PROJE OLUŞTURULDU
+
+- Otomatik mail gönderen uygulamamızın laravel framework kısmını yeni nesil sail ile oluşturdum.
+- içine mariaDB ve memcached ekledim.
+- docker üzerinden yayına çıktığını gördüm.
+
+- Görsel 1
+  <img src="https://www.crmx.net.tr/uploads/resim-1.png" width="400" alt="Laravel Logo" />
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
