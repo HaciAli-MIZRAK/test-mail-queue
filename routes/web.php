@@ -16,3 +16,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('email-test', function(){
+
+    $details['email'] = 'info@veritakip.net';
+    $delay = \Carbon\Carbon::now()->addMinutes(10);
+    dispatch(new \App\Jobs\QueueEmailJob($details))->delay($delay);
+
+    dd('done delay 10 Minutes');
+});

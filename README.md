@@ -1,11 +1,24 @@
 ## PROJE OLUŞTURULDU
 
 - Otomatik mail gönderen uygulamamızın laravel framework kısmını yeni nesil sail ile oluşturdum.
-- içine mariaDB ve memcached ekledim.
+- içine mariaDB ve memcached ekledim. DÜZELTME: Benim pc den kaynaklı sorun oldu modülleri yeniden kurdum. ve sadece redis olarak güncelledim.
 - docker üzerinden yayına çıktığını gördüm.
+- Horizon paketi kuruldu aktif edildi.
+- Horizon ile kuyruktabekleyen mailler anlık ve 10 dakika sonra gidecek şekilde ayarlandı. (bunu ben zaten queu:work ile yapıyordum. Bunda sadece ilave horizon kullandım artısı redis + horizon dashboard olması)
 
 - Görsel 1
 <img src="https://www.crmx.net.tr/uploads/resim-1.png" width="400" alt="Laravel Logo" />
+
+- Görsel 2
+<img src="https://www.crmx.net.tr/uploads/resim-2.png" width="400" alt="Laravel Logo" />
+
+- Görsel 3
+<img src="https://www.crmx.net.tr/uploads/resim-3.png" width="400" alt="Laravel Logo" />
+
+- Görsel 4 
+<img src="https://www.crmx.net.tr/uploads/resim-1.png" width="400" alt="Laravel Logo" />
+
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
