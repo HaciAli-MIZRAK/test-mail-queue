@@ -16,7 +16,7 @@
 <img src="https://www.crmx.net.tr/uploads/resim-3.png" width="400" alt="Laravel Logo" />
 
 - Görsel 4 
-<img src="https://www.crmx.net.tr/uploads/resim-1.png" width="400" alt="Laravel Logo" />
+<img src="https://www.crmx.net.tr/uploads/resim-4.png" width="400" alt="Laravel Logo" />
 
 
 
